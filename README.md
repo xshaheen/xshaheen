@@ -31,8 +31,7 @@
 
 ## What I'm currently learning 📚
 
-- TypeScript
+- More about TypeScript
 - MongoDB & NoSQL
-- Ruby
 
 </details>
