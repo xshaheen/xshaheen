@@ -4,34 +4,29 @@
 
 ⚡ I’m on LinkedIn: [www.linkedin.com/in/xshaheen/](https://www.linkedin.com/in/xshaheen/)
 
-📫 How to reach me: [www.xshaheen.com](https://www.xshaheen.com)
-
 <details><summary>More stuff about me</summary>
 
 <!-- ### What I do -->
 
-## My skills 📜
+## Technologies 📜
 
-### Web technologies
-
-- ASP.NET
-- Entity Framework
+- C# / .NET
+- ASP.NET Core
+- Entity Framework | Dapper
 - SQL Server
+- CosmosDb
 - SignalR
-- Angular
-- TypeScript
+- JavaScript | TypeScript
 - HTML, CSS
 - SCSS
-
-### Application Development
-
-- C#
-- .NET
-- WPF (Windows Presentation Foundation Framework)
+- Angular | React | Nextjs
+- Azure
 
 ## What I'm currently learning 📚
 
+- SOA
+- Event-driven architecture
+- NoSQL
 - More about TypeScript
-- MongoDB & NoSQL
 
 </details>
