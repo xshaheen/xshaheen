@@ -31,8 +31,7 @@ open_source: .NET libraries that solve real problems for developers
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xshaheen&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=xshaheen&theme=github-dark-blue&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xshaheen&theme=github-dark-blue&hide_border=true" width="55%" alt="GitHub Streak"/>
 </p>
 
 ### `> what I'm building with`
