@@ -31,6 +31,10 @@ open_source: .NET libraries that solve real problems for developers
 <br/>
 
 <p align="center">
+  <img src="https://ghchart.rshah.org/40c463/xshaheen" alt="GitHub Contributions"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=xshaheen&theme=github-dark-blue&hide_border=true" width="55%" alt="GitHub Streak"/>
 </p>
 
